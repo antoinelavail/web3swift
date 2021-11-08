@@ -6,7 +6,7 @@ target 'myWeb3Wallet' do
   use_frameworks!
 
   # Pods for myWeb3Wallet
-pod 'web3swift', :git => 'https://github.com/veerChauhan/web3swift.git', :branch => 'develop'
+   pod 'web3swift', :path => '../../'
 
 
   target 'myWeb3WalletTests' do

@@ -8,7 +8,7 @@ target 'Web3support' do
   use_frameworks!
 
   # Pods for Web3support
-    pod 'web3swift'
+   pod 'web3swift', :path => '../../'
 
 
   target 'Web3supportTests' do

@@ -243,9 +243,11 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
       incurred by, or claims asserted against, such Contributor by reason
       of your accepting any such warranty or additional liability.
 
-## secp256k1.c
+## secp256k1.swift
 
-Copyright (c) 2013 Pieter Wuille
+The MIT License (MIT)
+
+Copyright (c) 2018 Boilertalk Ltd.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

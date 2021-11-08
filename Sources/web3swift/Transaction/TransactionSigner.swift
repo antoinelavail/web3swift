@@ -6,7 +6,7 @@
 
 import Foundation
 import BigInt
-//import secp256k1_swift
+import secp256k1
 //import EthereumAddress
 
 public enum TransactionSignerError: Error {
